@@ -1,8 +1,8 @@
-## Olá, Sou o Elizeu Barbosa Abreu Se vovê não pagar, neu eu... 
+## Olá, Sou o Elizeu Barbosa Abreu. Se vovê não pagar, neu eu... 
  <div>
   <a href="https://github.com/elizeubarbosaabreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elizeubarbosaabreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizeubarbosaabreu&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elizeubarbosaabreu&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizeubarbosaabreu&layout=compact&langs_count=7&theme=default"/>
 </div>
 <div style="display: inline_block"><br>
   
