@@ -1,7 +1,7 @@
 ## Olá, Sou o Elizeu Barbosa Abreu. Se você não pagar, nem eu... 
 * Sou Agente de Correios/Carteiro na Empresa Brasileira de Correios e Telégrafos;
 * Licenciado em Ciências Biológicas;
-* Curso tècnico em Informática do IFRO incompleto;
+* Curso técnico em Informática do IFRO incompleto;
 
 > Nas poucas horas vagas dedico-me a estudar, programar e curtir minha família...
 
@@ -11,7 +11,7 @@
 | Projeto | Link |
 | --- | --- |
 | Gerador de Senhas | [https://github.com/elizeubarbosaabreu/GERADOR_DE_SENHAS_SEGURAS](https://github.com/elizeubarbosaabreu/GERADOR_DE_SENHAS_SEGURAS)  |
-| TGerenciador de Senhas Seguro | [https://github.com/elizeubarbosaabreu/PyPass-Gerenciador-de-Senhas](https://github.com/elizeubarbosaabreu/PyPass-Gerenciador-de-Senhas) |
+| Gerenciador de Senhas Seguro | [https://github.com/elizeubarbosaabreu/PyPass-Gerenciador-de-Senhas](https://github.com/elizeubarbosaabreu/PyPass-Gerenciador-de-Senhas) |
 | Editor de Markdown e README.md | [https://github.com/elizeubarbosaabreu/README-md-Markdown-Editor](https://github.com/elizeubarbosaabreu/README-md-Markdown-Editor) |
 | Caixa de Promessas Bíblicas | [https://github.com/elizeubarbosaabreu/CAIXA_DE_PROMESSAS_BIBLICAS](https://github.com/elizeubarbosaabreu/CAIXA_DE_PROMESSAS_BIBLICAS) |
 | Gerador de Lorem Ipsum | [https://github.com/elizeubarbosaabreu/Lorem-Ipsum-Generator](https://github.com/elizeubarbosaabreu/Lorem-Ipsum-Generator) |
