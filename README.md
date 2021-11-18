@@ -16,6 +16,7 @@
 | Gerenciador de Senhas Seguro | [https://github.com/elizeubarbosaabreu/PyPass-Gerenciador-de-Senhas](https://github.com/elizeubarbosaabreu/PyPass-Gerenciador-de-Senhas) |
 | Editor de Markdown e README.md | [https://github.com/elizeubarbosaabreu/README-md-Markdown-Editor](https://github.com/elizeubarbosaabreu/README-md-Markdown-Editor) |
 | Caixa de Promessas Bíblicas | [https://github.com/elizeubarbosaabreu/CAIXA_DE_PROMESSAS_BIBLICAS](https://github.com/elizeubarbosaabreu/CAIXA_DE_PROMESSAS_BIBLICAS) |
+| Tradutor | https://github.com/elizeubarbosaabreu/PyTranslate |
 | Gerador de Lorem Ipsum | [https://github.com/elizeubarbosaabreu/Lorem-Ipsum-Generator](https://github.com/elizeubarbosaabreu/Lorem-Ipsum-Generator) |
 
  ##
