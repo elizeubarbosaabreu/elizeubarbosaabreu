@@ -7,10 +7,11 @@
 
  ##
 
-## TOP 5 - Projetos mais relevantes
+## Meus Projetos mais relevantes
 
 | Projeto | Link |
 | --- | --- |
+| Bíblia Sagrada | https://github.com/elizeubarbosaabreu/BibliaSagrada.git |
 | Gerador de Senhas | [https://github.com/elizeubarbosaabreu/GERADOR_DE_SENHAS_SEGURAS](https://github.com/elizeubarbosaabreu/GERADOR_DE_SENHAS_SEGURAS)  |
 | Gerenciador de Senhas Seguro | [https://github.com/elizeubarbosaabreu/PyPass-Gerenciador-de-Senhas](https://github.com/elizeubarbosaabreu/PyPass-Gerenciador-de-Senhas) |
 | Editor de Markdown e README.md | [https://github.com/elizeubarbosaabreu/README-md-Markdown-Editor](https://github.com/elizeubarbosaabreu/README-md-Markdown-Editor) |
