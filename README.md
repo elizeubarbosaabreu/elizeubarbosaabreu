@@ -21,7 +21,7 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://twitter.comelizeubarbosaab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elizeu_barbosa" height="30" width="40" /></a>
+<a href="https://twitter.com/elizeubarbosaab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elizeu_barbosa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elizeu-barbosa-abreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizeu-barbosa-abreu" height="30" width="40" /></a>
 <a href="https://pt.stackoverflow.com/users/299078/elizeu-barbosa-abreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="299078" height="30" width="40" /></a>
 <a href="https://fb.com/elizeub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elizeub" height="30" width="40" /></a>
