@@ -17,8 +17,6 @@
 
 - 💬 Pergunte-me sobre **python**
 
-- 📫 Entre em contato comigo **elizeubarbosaabreu@yahoo.com**
-
 - 📄 Trabalho como carteiro (agente de correios) na **Empresa de Correios e Telégrafos do Brasil**
 
 <h3 align="left">Redes Sociais:</h3>
