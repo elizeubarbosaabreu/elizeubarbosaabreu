@@ -15,7 +15,7 @@
 
 - 📝 Eu regularmente testo meu códigos no [https://replit.com/@ElizeuBarbosa](https://replit.com/@ElizeuBarbosa)
 
-- 💬 Pergunte-me sobre **python**
+- 💬 Pergunte-me sobre **python** [https://pt.stackoverflow.com/users/299078/elizeu-barbosa-abreu](https://pt.stackoverflow.com/users/299078/elizeu-barbosa-abreu)
 
 - 📄 Trabalho como carteiro (agente de correios) na **Empresa de Correios e Telégrafos do Brasil**
 
