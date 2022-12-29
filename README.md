@@ -11,7 +11,11 @@
 
 - 🌱 Atualmente estou estudando **Python, Power BI, Data Science, CSS**
 
-- 👨‍💻 Confira todos os meus projetos aqui [https://github.com/elizeubarbosaabreu?tab=repositories](https://github.com/elizeubarbosaabreu?tab=repositories)
+- 👨 Confira todos os meus projetos aqui [https://github.com/elizeubarbosaabreu?tab=repositories](https://github.com/elizeubarbosaabreu?tab=repositories)
+
+- Conheça meu blogue [https://sofagospel.blogspot.com](https://sofagospel.blogspot.com)
+
+- Meu canal do YouTube [https://youtube.com/@elizeubarbosaabreu](https://youtube.com/@elizeubarbosaabreu)
 
 - 📝 Eu regularmente testo meu códigos no [https://replit.com/@ElizeuBarbosa](https://replit.com/@ElizeuBarbosa)
 
