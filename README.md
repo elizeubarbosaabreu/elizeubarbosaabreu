@@ -15,7 +15,7 @@
 
 - Conheça meu blogue [https://sofagospel.blogspot.com](https://sofagospel.blogspot.com)
 
-- Meu canal do YouTube [https://youtube.com/@teslando](https://youtube.com/@teslando)
+- Meu canal do YouTube [https://youtube.com/@elizeubarbosaabreu](https://youtube.com/@elizeubarbosaabreu)
 
 - 📝 Eu regularmente testo meu códigos no [https://replit.com/@ElizeuBarbosa](https://replit.com/@ElizeuBarbosa)
 
