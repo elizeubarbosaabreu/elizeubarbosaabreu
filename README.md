@@ -32,11 +32,3 @@
 <a href="https://discord.gg/Elizeu Barbosa Abreu#5398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elizeu Barbosa Abreu#5398" height="30" width="40" /></a>
 </p>
 
-### Estatísiticas sobre meu portifólio:
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elizeubarbosaabreu&show_icons=true&locale=pt-br&layout=full" alt="elizeubarbosaabreu" /></p>
-
-
-### Dias que enviei arquivos para o GitHub:
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
