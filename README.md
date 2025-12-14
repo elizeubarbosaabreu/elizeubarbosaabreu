@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizeubarbosaabreu&label=Profile%20views&color=0e75b6&style=flat" alt="elizeubarbosaabreu" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=elizeubarbosaabreu"><img src="https://github-profile-trophy.vercel.app/?username=elizeubarbosaabreu" alt="elizeubarbosaabreu" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando no [Aplicativo Android Palavra Criativa](https://github.com/elizeubarbosaabreu/PalavraCriativaAppAndroid)
 
 - 🌱 Atualmente estou aprendendo **Flet, Android Studio, Kotlin, Python Avançado**
