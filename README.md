@@ -1,28 +1,54 @@
-<h1 align="center">Olá 👋, Sou Elizeu Barbosa Abreu | elizeu.dev</h1>
-<h3 align="center">Um programador por hobby que adora fazer os próprios aplicativos</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elizeubarbosaabreu&label=Profile%20views&color=0e75b6&style=flat" alt="elizeubarbosaabreu" /> </p>
-
-- 🔭 Atualmente estou trabalhando no [Aplicativo Android Palavra Criativa](https://github.com/elizeubarbosaabreu/PalavraCriativaAppAndroid)
-
-- 🌱 Atualmente estou aprendendo **Flet, Android Studio, Kotlin, Python Avançado**
-
-- 👨‍💻 Confira todos os meu projetos [https://github.com/elizeubarbosaabreu?tab=repositories](https://github.com/elizeubarbosaabreu?tab=repositories)
-
-- 📝 Acesse meu blog [https://sofagospel.blogspot.com](https://sofagospel.blogspot.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/elizeu.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elizeu.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elizeudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elizeudev" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Landing+Pages+que+Convertem;Foco+em+Resultado;Design+que+Vende" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>Especialista em Landing Pages de Alto Impacto</strong><br/>
+  <em>Transformo ideias em páginas que convertem visitantes em clientes</em>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elizeubarbosaabreu&show_icons=true&locale=en&layout=compact" alt="elizeubarbosaabreu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elizeubarbosaabreu&show_icons=true&locale=en" alt="elizeubarbosaabreu" /></p>
+## 🚀 Landing Pages Criadas
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elizeubarbosaabreu&" alt="elizeubarbosaabreu" /></p>
+| | | |
+|---|---|---|
+| <a href="https://land-page-computacao.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🏢-Computação-6C63FF?style=for-the-badge" /></a> | <a href="https://hugo-landing-page.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/📰-Hugo%20Site-6C63FF?style=for-the-badge" /></a> | <a href="https://site-confeitaria-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🧁-Confeitaria-6C63FF?style=for-the-badge" /></a> |
+| <a href="https://pense-como-hacker-landing.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/💻-Pense%20Como%20Hacker-6C63FF?style=for-the-badge" /></a> | <a href="https://como-prosperar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/📈-Como%20Prosperar-6C63FF?style=for-the-badge" /></a> | <a href="https://langing-ebook-colab.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/📚-Ebook%20Colab-6C63FF?style=for-the-badge" /></a> |
+| <a href="https://landinpage-python-para-cientistas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🐍-Python%20Cientistas-6C63FF?style=for-the-badge" /></a> | <a href="https://curso-automacao-python.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/⚙️-Automação%20Python-6C63FF?style=for-the-badge" /></a> | <a href="https://kit-ebooks-python.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/📦-Kit%20Ebooks%20Python-6C63FF?style=for-the-badge" /></a> |
+| <a href="https://jovem-cristao-decidido-ebook.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/📖-Jovem%20Cristão-6C63FF?style=for-the-badge" /></a> | <a href="https://colorindo-historias-biblia.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🎨-Colorindo%20Histórias-6C63FF?style=for-the-badge" /></a> | <a href="https://profelizeu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/👨‍🏫-Prof%20Elizeu-6C63FF?style=for-the-badge" /></a> |
 
+---
+
+## 🌐 Portfólio Principal
+
+<p align="center">
+  <a href="https://elizeubarbosa.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/🌍-elizeubarbosa.com.br-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elizeubarbosaabreu&show_icons=true&theme=tokyonight&hide=issues,contribs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=elizeubarbosaabreu&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Conecte-se
+
+<p align="center">
+  <a href="https://instagram.com/elizeu.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/elizeudev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://elizeubarbosa.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
