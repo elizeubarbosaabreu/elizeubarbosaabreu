@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://elizeubarbosa.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-Portfólio-elizeubarbosa.com.br-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/elizeubarbosa.com.br-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:elizeubarbosa@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/📧-Email-6C63FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
