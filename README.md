@@ -73,7 +73,7 @@ Gera vídeos automaticamente a partir de texto, com voz TTS e suporte a formato 
 3.248 páginas imprimíveis em A4 — produtividade, planejamento, finanças, estudos e muito mais.
 
 [![HTML](https://img.shields.io/badge/HTML-6C63FF?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/elizeubarbosaabreu/paginas-imprimiveis-a4)
-[![Site](https://img.shields.io/badge/Acessar%20o%20Site-000000?style=for-the-badge)](https://elizeubarbosa.com.br/formularios/index.htm)
+[![Site](https://img.shields.io/badge/Acessar%20o%20Site-000000?style=for-the-badge)](https://elizeubarbosa.com.br/formularios/index.html)
 
 ---
 
