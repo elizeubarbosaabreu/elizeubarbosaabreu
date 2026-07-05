@@ -13,8 +13,8 @@
   <a href="https://elizeubarbosa.com.br" target="_blank">
     <img src="https://img.shields.io/badge/elizeubarbosa.com.br-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:elizeubarbosaabreu@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/elizeubarbosaabreu@yahoo.com-6C63FF?style=for-the-badge&logo=yahoo&logoColor=white" />
+  <a href="https://sofagospel.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Sofá%20Gospel-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
 
