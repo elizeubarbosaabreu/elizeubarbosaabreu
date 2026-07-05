@@ -1,7 +1,7 @@
 <h1 align="center">Prof. Elizeu Barbosa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Educador+%E2%80%A2+Programador+%E2%80%A2+Criador+de+Conte%C3%BAdo;Landing+Pages+que+Convertem;Automa%C3%A7%C3%A3o+com+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Educador+%E2%80%A2+Programador;Landing+Pages+que+Convertem;Automa%C3%A7%C3%A3o+com+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
