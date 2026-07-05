@@ -13,9 +13,6 @@
   <a href="https://elizeubarbosa.com.br" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Portfólio-elizeubarbosa.com.br-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://wa.me/5569984144274" target="_blank">
-    <img src="https://img.shields.io/badge/💬-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="mailto:elizeubarbosa@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/📧-Email-6C63FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
@@ -125,9 +122,7 @@ Coleção de ebooks para aprender Python do zero ao avançado.
   <a href="https://sofagospel.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-Sofá%20Gospel-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-  <a href="https://wa.me/5569984144274" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
 </p>
 
 ---
