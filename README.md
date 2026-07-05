@@ -98,10 +98,10 @@ Coleção de ebooks para aprender Python do zero ao avançado.
 
 <p align="center">
   <a href="https://github.com/elizeubarbosaabreu">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elizeubarbosaabreu&show_icons=true&theme=tokyonight&hide=issues,contribs&count_private=true" />
+    <img height="160em" src="https://github-readme-stats-two-rosy.vercel.app/api?username=elizeubarbosaabreu&show_icons=true&theme=tokyonight&hide=issues,contribs&count_private=true" />
   </a>
   <a href="https://github.com/elizeubarbosaabreu?tab=repositories">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=elizeubarbosaabreu&layout=compact&theme=tokyonight&hide=html,css" />
+    <img height="160em" src="https://github-readme-stats-two-rosy.vercel.app/api/top-langs?username=elizeubarbosaabreu&layout=compact&theme=tokyonight&hide=html,css" />
   </a>
 </p>
 
